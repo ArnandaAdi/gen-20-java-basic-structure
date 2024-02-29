@@ -9,7 +9,7 @@ Mendemonstrasikan berbagai variabel dan tipe data. Variabel sendiri digunakan un
 Mendemontrasikan berbagai macam operator aritmatika. Pemahaman aritmatika merupakan dasar untuk memahami algoritma dan logika pemrograman. Operasi Aritmatika meliputi penjumlahan (+), pengurangan (-), perkalian (*), pembagian (/), dan modulus (%).
 
 ## 3. Segitiga Bintang 
-Pada program ini menggunakan loop. Loop pada program ini berguna untuk mengontrol baris agar dan spasi. Dari kombinasi loop tersebut maka akan menciptakan pola segitiga.
+Pada program ini menggunakan loop. Loop pada program ini berguna untuk mengontrol baris dan spasi. Dari kombinasi loop tersebut maka akan menciptakan pola segitiga.
 
 ## 4. Ganji & Genap
 Pada program ini menggunakan modulus dan if else. Operator modulus digunakan untuk membagi bilangan dan mengkategorikannya berdasarkan sisa pembagian. Maka digunakan if dan else untuk mengkategorikan bilangan tersebut, jika bilangan tersebut dibagi dengan nilai 2 memilki sisa bagi 0 maka dia termasuk kepada bilangan genap, jika tidak maka dia termasuk kepada bilangan ganjil
